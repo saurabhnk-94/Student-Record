@@ -1,0 +1,45 @@
+/* .App {
+    display: flex;
+    flex-direction: row;
+} */
+
+.main-body {
+    margin: 10px;
+    padding-top: 10px;
+}
+
+.information {
+    display: flex;
+    flex-direction: column;
+}
+
+.first {
+    display: flex;
+    flex-direction: row;
+}
+
+.form-information {
+    display: flex;
+    flex-direction: column;
+}
+
+.form-information div {
+    display: flex;
+    flex-direction: row;
+    margin: 10px;
+}
+
+.sortby {
+    display: flex;
+    justify-content: space-between;
+    width: 500px;
+}
+
+table {
+    width: 100%;
+}
+
+th,
+tr {
+    border: 1px solid black;
+}
