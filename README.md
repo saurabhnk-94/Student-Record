@@ -22,7 +22,7 @@ Installing
 
 Clone the repository
 ```
-https://github.com/saurabhnk-94/studentRecord.git
+https://github.com/saurabhnk-94/Student-Record.git
 ```
 Setting up your virtual environment:
 ```
@@ -32,7 +32,7 @@ Activating Virtual Environment
 ```
 source .env/bin/activate
 ```
-Once the repository is cloned and virtual environment set up, go to the directory where the requirements.txt(studentRecord/backend/) is and type the following code in your terminal:
+Once the repository is cloned and virtual environment set up, go to the directory where the requirements.txt(Student-Record/backend/) is and type the following code in your terminal:
 ```
 pip install requirements.txt
 ```
@@ -54,7 +54,7 @@ For Frontend which is ReactJS, Dependencies are:
 "redux": "^4.0.4",
 "react-scripts": "0.9.5"
 ```
-Go to 'studentRecord/student/' and type the following code in the terminal:
+Go to 'Student-Record/student/' and type the following code in the terminal:
 ```
 npm install
 ```
